@@ -1,4 +1,5 @@
 # SmartKnob
+
 SmartKnob is an open-source input device with software-configurable endstops and virtual detents.
 
 A brushless gimbal motor is paired with a magnetic encoder to provide closed-loop torque feedback control, making it possible to dynamically create and adjust the feel of detents and endstops.
